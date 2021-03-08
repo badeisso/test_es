@@ -10,10 +10,10 @@
  *****************************************************************************/
 /**
  * @file stats.h 
- * @brief This file is to be used in the second commit
+ * @brief This file is to be used in the final commit
  *
  * @author Badei Ayasso
- * @date March,4,2021
+ * @date March,8,2021
  *
  */
 
